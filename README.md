@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Anthony David — Cybersecurity & Digital Forensics">
+</p>
+
 # Hi, I'm Anthony 👋
 
 **Cybersecurity & Digital Forensics | Software Developer**
